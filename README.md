@@ -1,29 +1,43 @@
 # DSA Practice
 
-This repository contains my solutions to Data Structures and Algorithms problems as I learn and practice C++.
+A growing collection of C++ solutions and notes from my Data Structures and Algorithms journey.
 
 ## Topics
 
-* Arrays
-* Strings
-* Hashing
-* Two Pointers
-* Binary Search
-* Stack
-* Queue
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Prefix Sums
+- Binary Search
+- Linked Lists
+- Stack
+- Queue
 
-More topics will be added as I progress through my DSA journey.
+## Current Progress
+
+I am building DSA fundamentals through structured practice, mainly using LeetCode problems.
+
+The repository is organized by topic so that each folder can be revisited for pattern-based revision rather than treated as a simple problem dump.
 
 ## Problem Sources
 
-Most problems in this repository are from LeetCode.
+Most problems are from LeetCode.
 
 ## Goals
 
-* Strengthen problem-solving skills
-* Learn and apply Data Structures and Algorithms
-* Write clean and efficient C++ code
-* Track my progress and growth over time
+- Build strong problem-solving fundamentals
+- Recognize common DSA patterns
+- Write clean and efficient C++ solutions
+- Strengthen C++ STL fluency
+- Maintain a useful revision reference throughout college
+
+## Language
+
+**C++**
+
+> Problem counts in this repository reflect the code stored here. My separate learning tracker may use a different official count when revisions or older practice files are intentionally excluded.
 
 ---
 
