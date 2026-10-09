@@ -8,6 +8,7 @@ Stack-based problem solving and LIFO data-structure practice in C++.
 - LC682 — Baseball Game
 - LC735 — Asteroid Collision
 - LC844 — Backspace String Compare
+- LC150 — Evaluate Reverse Polish Notation
 - LC155 — Min Stack
 
 ## Concepts Practiced
@@ -21,6 +22,9 @@ Stack-based problem solving and LIFO data-structure practice in C++.
 - State tracking with a boolean flag
 - Maintaining state while processing a sequence
 - Maintaining the minimum with an auxiliary stack
+- Evaluating postfix expressions using a stack
+- Operand ordering for subtraction and division
+- Converting numeric tokens with `stoi()`
 
 ## Language
 
