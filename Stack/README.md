@@ -10,6 +10,7 @@ Stack-based problem solving and LIFO data-structure practice in C++.
 - LC844 — Backspace String Compare
 - LC150 — Evaluate Reverse Polish Notation
 - LC155 — Min Stack
+- LC496 — Next Greater Element I
 
 ## Concepts Practiced
 
@@ -25,6 +26,8 @@ Stack-based problem solving and LIFO data-structure practice in C++.
 - Evaluating postfix expressions using a stack
 - Operand ordering for subtraction and division
 - Converting numeric tokens with `stoi()`
+- Monotonic decreasing stack for next greater elements
+- Hash map lookup for next greater values
 
 ## Language
 
